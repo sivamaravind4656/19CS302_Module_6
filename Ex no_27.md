@@ -17,8 +17,8 @@ To write a C program that demonstrates the use of typedef to create a new alias 
 ```
 /*
 C program that demonstrates the use of typedef to create a new alias name for a data type.
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: ARAVINDHAN K A P
+RegisterNumber:  212222063001
 */
 #include <stdio.h>
 typedef int MyInt;
